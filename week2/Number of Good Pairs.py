@@ -7,5 +7,3 @@ class Solution:
                         count+=1
             return(count)            
             
-# l=list(map(int,input().split()))
-# print(goodPairs(l))    
